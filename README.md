@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="(https://media.tenor.com/jHg-q58KgiYAAAAC/scaler-create-impact.gif)"  />
+<img align="right" height="150" src="https://media.tenor.com/jHg-q58KgiYAAAAC/scaler-create-impact.gif" />
 
 ###
 

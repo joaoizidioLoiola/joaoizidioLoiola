@@ -44,8 +44,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/joaoizidio-2902/joaoizidio-2902/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/joaoizidio-2902/joaoizidio-2902/output/snake.svg" alt="Snake animation" />
 
 ###

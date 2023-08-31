@@ -39,7 +39,3 @@
 </div>
 
 ###
-
-<img src="https://github.com/joaoizidio-2902/joaoizidio-2902/output/snake.svg" alt="Snake animation" />
-
-###

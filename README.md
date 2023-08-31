@@ -1,4 +1,4 @@
-<h3 align="left">Olá👋! Meu nome é João Izídio, estou cursando Análise e Desenvolvimento de Sistemas. Tenho 19 anos, sou do estado do Ceará, mas atualmente moro em Caraguatatuba - SP, Brasil.</h3>
+<h3 align="left">Olá👋! Meu nome é João Izídio, estou cursando Análise e Desenvolvimento de Sistemas. Tenho 19 anos, sou de Tauá - Ceará, mas atualmente moro em Caraguatatuba - SP, Brasil.</h3>
 
 ###
 
@@ -28,10 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/C4E03AQF85GlvJMIPRw/profile-displayphoto-shrink_800_800/0/1644194656924?e=1698883200&v=beta&t=P_kyugx8Gx9bak_p53thAZRwPcgNll_LvuxtA6lPwiM"  />
 
 ###
 

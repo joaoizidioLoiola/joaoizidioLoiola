@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/joaoizidio-2902/joaoizidio-2902/snake.yml" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/joaoizidio-2902/joaoizidio-2902/snake.yml](https://github.com/joaoizidio-2902/joaoizidio-2902/blob/main/snake.yml)https://github.com/joaoizidio-2902/joaoizidio-2902/blob/main/snake.yml" alt="Snake animation" />
 
 ###

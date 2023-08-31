@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif (https://tenor.com/pt-BR/view/scaler-create-impact-dog-coding-programming-gif-25011983)"  />
 
 ###
 

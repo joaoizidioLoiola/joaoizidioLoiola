@@ -1,4 +1,4 @@
-<h3 align="left">Olá👋! Meu nome é João Izídio, estou cursando  Tecnólogo em Análise e Desenvolvimento de Sistemas. Tenho 19 anos, moro atualmente em Caraguatatuba - SP, Brasil. Desenvolvendo um projeto em React Native, Next JS com TypeSript, e estudando Java na faculdade.</h3>
+<h3 align="left">Olá👋! Meu nome é João Izídio, estou cursando o 4º período de Tecnólogo em Análise e Desenvolvimento de Sistemas. Tenho 19 anos, moro atualmente em Caraguatatuba - SP, Brasil. Desenvolvendo projetos em React Native, Next JS com TypeSript, e estudando Java na faculdade.</h3>
 
 ###
 

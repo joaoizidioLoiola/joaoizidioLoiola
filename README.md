@@ -2,25 +2,26 @@
 
 ###
 
-<picture align="left">
+<picture align="left" style="padding-right: 20px; width: 50%">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark"
-    media="(prefers-color-scheme: dark)" heigh="150"
+    media="(prefers-color-scheme: dark)" height="150"
   />
-<!--   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"
-    media="(prefers-color-scheme: dark)" heigh="150" -->
-  />
-  <source 
-    srcset ="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&layout=compact"
-    media="(prefers-color-scheme: dark)" heigh="150"
-    />
   <img src="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&show_icons=true" />
 </picture>
 
-###
+<picture align="right" style="width: 50%; margin-left: 20px">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)" height="150"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&locale=pt-br&layout=compact" />
+</picture>
+
 
 <br clear="both">
+
+###
 
 <img align="right" height="150" src="https://media.tenor.com/jHg-q58KgiYAAAAC/scaler-create-impact.gif (https://tenor.com/pt-BR/view/scaler-create-impact-code-sleep-time-gif-25011979)" />
 

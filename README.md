@@ -11,6 +11,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"
     media="(prefers-color-scheme: dark)"
   />
+  <source ![Top Langs] srcset ="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&show_icons=true" />
 </picture>
 

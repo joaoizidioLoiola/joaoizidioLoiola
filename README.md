@@ -2,18 +2,18 @@
 
 ###
 
-<picture align="left" style="padding-right: 20px; width: 50%">
+<picture align="left">
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark"
-    media="(prefers-color-scheme: dark)" height="150"
+    srcset="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&card_width=400px&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula"
+    media="(prefers-color-scheme: dark)" height="180" padding-right="20"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&show_icons=true" />
 </picture>
 
 <picture align="right" style="width: 50%; margin-left: 20px">
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)" height="150"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&layout=compact&theme=dracula&card_width=400px"
+    media="(prefers-color-scheme: dark)" height="180"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&locale=pt-br&layout=compact" />
 </picture>

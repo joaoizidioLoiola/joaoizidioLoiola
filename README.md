@@ -60,4 +60,4 @@
 
 ###
 
- ![snake gif](https://github.com/joaoizidioLoiola/joaoizidioLoiola/blob/output/github-contribution-grid-snake.gif)
+ ![snake gif](https://github.com/joaoizidioLoiola/joaoizidioLoiola/blob/output/github-contribution-grid-snake-dark.svg)

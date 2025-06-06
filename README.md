@@ -5,7 +5,7 @@
 <picture align="left">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&show_icons=true&theme=dracula&card_width=400px&hide_title=false&hide_rank=true&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dracula)" height="180" padding-right="20"
+    media="(prefers-color-scheme: dark)" height="180" padding-right="20"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=joaoizidioLoiola&show_icons=true" />
 </picture>

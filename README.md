@@ -59,5 +59,3 @@
 </div>
 
 ###
-
- ![Snake animation](https://github.com/joaoizidioLoiola/joaoizidioLoiola/blob/output/github-contribution-grid-snake-dark.svg)

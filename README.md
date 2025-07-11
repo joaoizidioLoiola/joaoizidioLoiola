@@ -1,4 +1,6 @@
-<h3 align="left">Olá👋! Meu nome é João Izídio, tenho 20 anos, sou formado no curso Tecnólogo em Análise e Desenvolvimento de Sistemas - IFSP - Caraguatatuba, e moro atualmente em Caraguatatuba - SP, Brasil. Desenvolvendo projetos utilizando React e NextJs com  JavaScript e TypeSript.</h3>
+<h3 align="left">Olá 👋 Sou João Izídio.  
+Desenvolvedor Front-End focado em soluções modernas com React, React Native, Next.js e TypeScript.  
+Formado em Análise e Desenvolvimento de Sistemas (IFSP - Caraguatatuba). .</h3>
 
 ###
 
@@ -27,7 +29,7 @@
 
 ###
 
-<h3 align="left">Linguagens que Estudo</h3>
+<h3 align="left">Linguagens e Ferramentas</h3>
 
 ###
 
@@ -43,6 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width = "10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind-css logo" />
+          
 </div>
 
 ###
@@ -52,10 +57,19 @@
 ###
 
 <div align="left">
-  <a href = "https://www.linkedin.com/in/joaoizidioLoiola/" target = "_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href = "https://discord.gg/JncntAkx" target = "_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href = "mailto:joaoizidio287@gmail.com" target = "_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-   <a href = "https://www.instagram.com/joaoizidioloiola/" target = "_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/joaoizidioLoiola/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://discord.gg/JncntAkx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="mailto:joaoizidioloiola@icloud.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.instagram.com/joaoizidioLoiola/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+  </a>
 </div>
+
 
 ###

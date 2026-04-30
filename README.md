@@ -1,6 +1,6 @@
-<h3 align="left">Olá 👋 Sou João Izídio.  
-Desenvolvedor Front-End focado em soluções modernas com React, React Native, Next.js e TypeScript.  
-Formado em Análise e Desenvolvimento de Sistemas (IFSP - Caraguatatuba). .</h3>
+<h3 align="left">Hello 👋 I'm João Izídio
+Front-End Developer specialized in building modern solutions with React, React Native, Next.js, and TypeScript.
+Bachelor's Degree in Systems Analysis and Development from IFSP - Caraguatatuba.</h3>
 
 ###
 
@@ -17,7 +17,7 @@ Formado em Análise e Desenvolvimento de Sistemas (IFSP - Caraguatatuba). .</h3>
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&layout=compact&theme=dracula&card_width=400px"
     media="(prefers-color-scheme: dark)" height="180"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&locale=pt-br&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&layout=compact" />
 </picture>
 
 
@@ -29,7 +29,7 @@ Formado em Análise e Desenvolvimento de Sistemas (IFSP - Caraguatatuba). .</h3>
 
 ###
 
-<h3 align="left">Linguagens e Ferramentas</h3>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
@@ -52,7 +52,7 @@ Formado em Análise e Desenvolvimento de Sistemas (IFSP - Caraguatatuba). .</h3>
 
 ###
 
-<h3 align="left">Minhas Redes Sociais</h3>
+<h3 align="left">Social Networks</h3>
 
 ###
 

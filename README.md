@@ -1,6 +1,17 @@
-<h3 align="left">Olá 👋 Sou João Izídio.  
-Desenvolvedor Front-End focado em soluções modernas com React, React Native, Next.js e TypeScript.  
-Formado em Análise e Desenvolvimento de Sistemas (IFSP - Caraguatatuba). .</h3>
+<h3 align="left">Hello 👋 I'm João Izídio</h3>
+
+###
+
+### 👨‍💻 About Me
+
+- 🎓 Graduate in **Systems Analysis and Development** — IFSP Caraguatatuba
+- 💼 Front-End Developer focused on building modern, performant web and mobile applications
+- 🛠️ Experienced with **React**, **React Native**, **Next.js**, and **TypeScript**
+- 📱 Built **Kotlin** native modules in React Native to integrate POS card machine SDKs from payment providers
+- ⚙️ Basic knowledge of **C#** with hands-on experience building **Web APIs**
+- 🌱 Currently deepening knowledge in **backend integration** and **UI/UX best practices**
+- 📍 Based in Caraguatatuba, SP — Brazil
+- 💬 Open to new opportunities and collaborations
 
 ###
 
@@ -17,23 +28,20 @@ Formado em Análise e Desenvolvimento de Sistemas (IFSP - Caraguatatuba). .</h3>
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&layout=compact&theme=dracula&card_width=400px"
     media="(prefers-color-scheme: dark)" height="180"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&locale=pt-br&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoizidioLoiola&layout=compact" />
 </picture>
-
 
 <br clear="both">
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/jHg-q58KgiYAAAAC/scaler-create-impact.gif (https://tenor.com/pt-BR/view/scaler-create-impact-code-sleep-time-gif-25011979)" />
-
-###
-
-<h3 align="left">Linguagens e Ferramentas</h3>
+<h3 align="left">Languages & Tools</h3>
 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="35" alt="vscode logo" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
@@ -44,15 +52,18 @@ Formado em Análise e Desenvolvimento de Sistemas (IFSP - Caraguatatuba). .</h3>
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="35" alt="kotlin logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="35" alt="c# logo" />
+  <img width="8" />            
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width = "10" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind-css logo" />
-          
 </div>
 
 ###
 
-<h3 align="left">Minhas Redes Sociais</h3>
+<h3 align="left">Connect with Me</h3>
 
 ###
 
@@ -70,6 +81,3 @@ Formado em Análise e Desenvolvimento de Sistemas (IFSP - Caraguatatuba). .</h3>
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-
-
-###

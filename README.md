@@ -10,7 +10,7 @@
 - 📱 Built **Kotlin** native modules in React Native to integrate POS card machine SDKs from payment providers
 - ⚙️ Basic knowledge of **C#** with hands-on experience building **Web APIs**
 - 🌱 Currently deepening knowledge in **backend integration** and **UI/UX best practices**
-- 📍 Based in Caraguatatuba, SP — Brazil
+- 📍 Living in Caraguatatuba, SP — Brazil
 - 💬 Open to new opportunities and collaborations
 
 ###
